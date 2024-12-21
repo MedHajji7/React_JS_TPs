@@ -26,3 +26,16 @@ To run this application locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/MedHajji7/React_JS_TPs.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd React_JS_TPs
+
+3. Install the required dependencies:
+   ```bash
+   npm install
+
+4. Start the application:
+   ```bash
+   npm start
+
